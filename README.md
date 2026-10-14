@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por transformar desafios do mundo real em software funcional, elegante e escalável. 
+Sou um desenvolvedor em início de carreira apaixonado por transformar desafios do mundo real em software funcional, elegante e escalável. 
 
 - 🚀 **Ecossistema Web Moderno:** Experiência prática construindo desde SaaS multi-tenant completos com Laravel 12 até SPAs de alta performance com React 19 e Next.js 15.
 - ⚡ **Comunicação em Tempo Real:** Engenharia de streaming WebRTC de baixa latência (áudio, vídeo e compartilhamento de tela a 60fps).
@@ -30,7 +30,7 @@ DevOps & Tools:Docker, Docker Compose, Linux, Git/GitHub, Obsidian Second Brain
 
 ## 📂 Meus Projetos em Destaque
 
-### 🏪 [AgilizaSaaS](https://github.com/OtavioFFarina/AgilizaSaaS)
+### 🏪 [AgilizaSaaSPDV](https://github.com/OtavioFFarina/AgilizaSaaS)
 > **SaaS Multi-tenant de PDV, Frente de Caixa e Controle de Estoque**  
 > Sistema completo para o varejo com emissão de cupons, controle de abertura/fechamento de caixas, sangrias, movimentação de estoque auditável e gestão de múltiplos estabelecimentos.  
 > `PHP 8.3` `Laravel 12` `Tailwind CSS` `SQLite / MySQL` `Vite`
@@ -84,7 +84,5 @@ DevOps & Tools:Docker, Docker Compose, Linux, Git/GitHub, Obsidian Second Brain
 ## 📬 Onde me encontrar
 
 - 💼 **GitHub:** [@OtavioFFarina](https://github.com/OtavioFFarina)
-- 🌐 **Hub de Links:** [Agiliza Linktree](https://github.com/OtavioFFarina/AgilizaLinktree)
 
 ---
-*Atualizado em Outubro de 2026.*
